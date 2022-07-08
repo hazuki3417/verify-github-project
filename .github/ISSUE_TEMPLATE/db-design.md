@@ -1,7 +1,7 @@
 ---
 name: db-design
 about: DB設計用のissue
-title: ''
+title: "[DB設計] 論理名（コレクション名）"
 labels: ''
 assignees: ''
 
